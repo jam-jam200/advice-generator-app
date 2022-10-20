@@ -101,6 +101,12 @@ body {
   background-color: hsl(150, 59%, 54%);
 }
 
+.noData {
+  color: hsl(150, 59%, 54%);
+  font-size: 1.2rem;
+  font-family: "Playfair Display", serif;
+}
+
 @media (min-width: 500px) {
   .container {
     max-width: 480px;
